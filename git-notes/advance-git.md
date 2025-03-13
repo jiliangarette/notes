@@ -11,5 +11,4 @@
 - `git mv past_name.js new_name.js` this one changes the name of a file
 - `git rm` removes an tracked files 
 - `HEAD` is the currently checked-out snapshot of your project
-
 ---
